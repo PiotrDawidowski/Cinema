@@ -1,0 +1,75 @@
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.deps.json
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.AssemblyReference.cache
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfoInputs.cache
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfo.cs
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.CoreCompileInputs.cache
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\Szkoleni.93AF5215.Up2Date
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Service.dll
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+F:\Szkolenie techniczne 2\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.deps.json
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.AssemblyReference.cache
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfoInputs.cache
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfo.cs
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.CoreCompileInputs.cache
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\Szkoleni.93AF5215.Up2Date
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkoleTech4\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.deps.json
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.AssemblyReference.cache
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfoInputs.cache
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfo.cs
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.CoreCompileInputs.cache
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\Szkoleni.93AF5215.Up2Date
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkoleTech5\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.deps.json
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.AssemblyReference.cache
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfoInputs.cache
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfo.cs
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.CoreCompileInputs.cache
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\Szkoleni.93AF5215.Up2Date
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\w67652\Desktop\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.deps.json
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.dll
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\bin\Debug\net5.0\SzkolenieTechniczne.Cinema.Storage.pdb
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.AssemblyInfo.cs
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\Szkoleni.93AF5215.Up2Date
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\refint\SzkolenieTechniczne.Cinema.Service.dll
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\SzkolenieTechniczne.Cinema.Service.pdb
+C:\Users\peter\source\repos\SzkoleTech6\SzkoleTech6\SzkolenieTechniczne.Cinema\SzkolenieTechniczne.Cinema.Service\obj\Debug\net5.0\ref\SzkolenieTechniczne.Cinema.Service.dll

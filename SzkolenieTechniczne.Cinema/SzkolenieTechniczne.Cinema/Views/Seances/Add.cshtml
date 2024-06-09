@@ -1,0 +1,20 @@
+﻿@model SzkolenieTechniczne.Cinema.Service.Command.Seance.RegisterSeance.RegisterSeanceCommand
+@{
+    ViewData["Title"] = "Add";
+}
+<h2>Dodaj nowy seans</h2>
+
+<form method="post">
+    @Html.HiddenFor(x => x.MovieId)
+    <div class="form-group">
+        <label asp-for="SeanceDate">Data</label>
+        <input asp-for="SeanceDate" type="datetime" class="form-control">
+        <span asp-validation-for="SeanceDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NumberOfTickets">Liczba Biletów</label>
+        <input asp-for="NumberOfTickets" type="int" class="form-control" />
+        <span asp-validation-for="NumberOfTickets" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-outline-primary float-right">Zapisz</button>
+</form>

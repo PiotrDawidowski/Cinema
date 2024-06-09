@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SzkolenieTechniczne.Cinema.Service.Query.Dtos.MovieDto>
+@{
+    ViewData["Title"] = "Filmy";
+}
+<h2>Filmy</h2>
+@if (@Model.Any())
+{
+    <div>
+        <table class="table">
+            <thead class="tab-pane">
+                <tr>
+                    <th>Nazwa</th>
+                    <th></th>
+
+                    <th></th>
+                    <th>
+                        <a class="btn btn-outline-success float-right" asp-action="Add">Dodaj nowy</a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="tab-content">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            <div class="d-inline-flex float-right">
+                                <a class="text-warning btn btn-link" asp-action="Index"
+                                asp-controller="Seances" asp-route-id="@item.Id">
+                            <i class="fas fa-pen-square">Zobacz</i></a>
+                            </div>
+                        </td>
+                        <td>
+                            <a class="btn btn-link text-secondary float-right" asp-action="Edit" asp-route-id="@item.Id">Edytuj</a>
+                        </td>
+                        <td>
+                            <form method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                <button type="submit" class="btn btn-link text-danger float-right">Usuń</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>Brak filmów</p>
+}

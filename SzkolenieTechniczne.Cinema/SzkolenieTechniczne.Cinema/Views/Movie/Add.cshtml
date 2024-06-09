@@ -1,0 +1,25 @@
+﻿@model SzkolenieTechniczne.Cinema.Service.Command.Movie.Add.AddMovieCommand
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Dodaj nowy film</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name">Nazwa</label>
+        <input asp-for="Name" type="text" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Year">Rok</label>
+        <input asp-for="Year" type="number" class="form-control" />
+        <span asp-validation-for="Year" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SeanceTime">Czas Trwania</label>
+        <input asp-for="SeanceTime" type="number" class="form-control" />
+        <span asp-validation-for="SeanceTime" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-outline-primary float-right">Zapisz</button>
+</form>

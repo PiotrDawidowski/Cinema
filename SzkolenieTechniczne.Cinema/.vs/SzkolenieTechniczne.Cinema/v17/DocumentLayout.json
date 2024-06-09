@@ -1,0 +1,911 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\seance\\getseancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\seance\\getseancequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\extensions\\cinemaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\extensions\\cinemaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\dtos\\seancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\dtos\\seancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\dtos\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\seance\\registerseance\\registerseancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\movie\\delete\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\movie\\delete\\deletemoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\movie\\delete\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\movie\\delete\\deletemoviecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\command\\movie\\add\\addmoviecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\entities\\seance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\entities\\seance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\entities\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\entities\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\szkolenietechniczne.cinema.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\szkolenietechniczne.cinema.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\cinematicketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\cinematicketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\migrations\\20240607171134_piotr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\migrations\\20240607171134_piotr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|c:\\users\\peter\\source\\repos\\szkoletech6\\szkoletech6\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema.storage\\migrations\\20240607171134_piotr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\migrations\\20240607171134_piotr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|c:\\users\\peter\\source\\repos\\szkoletech6\\szkoletech6\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|c:\\users\\peter\\source\\repos\\szkoletech6\\szkoletech6\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|c:\\users\\peter\\source\\repos\\szkoletech6\\szkoletech6\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|c:\\users\\peter\\source\\repos\\szkoletech6\\szkoletech6\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\seances\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\seances\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\controllers\\seancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\controllers\\seancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\movie\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\movie\\getmoviequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\seances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\seances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.storage\\migrations\\20240529153318_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC41938F-F15F-4656-9B14-13BF41E1F729}|SzkolenieTechniczne.Cinema.Storage\\SzkolenieTechniczne.Cinema.Storage.csproj|solutionrelative:szkolenietechniczne.cinema.storage\\migrations\\20240529153318_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema\\szkolenietechniczne.cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB335DE6-07C8-4740-AC25-660133626571}|SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj|solutionrelative:szkolenietechniczne.cinema\\szkolenietechniczne.cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\seance\\getseancequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\seance\\getseancequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\dtos\\movieseancedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\dtos\\movieseancedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\dtos\\ticketdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\dtos\\ticketdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\movie\\getmoviequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\movie\\getmoviequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\movie\\getallmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\movie\\getallmoviesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\szkolenietechniczne.cinema.service\\query\\movie\\getallmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADC0867-3A2E-4C8A-8595-93C34ED61992}|SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj|solutionrelative:szkolenietechniczne.cinema.service\\query\\movie\\getallmoviesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetSeanceQuery.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQuery.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQuery.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQuery.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:32:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\IQuery.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\IQuery.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\IQuery.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:29:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\IQueryHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:29:59.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\ICommand.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\ICommand.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\ICommand.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\ICommandHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Result.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Result.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Result.cs*",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Result.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:33:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommand.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommand.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommand.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:28.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:14:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CinemaExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Extensions\\CinemaExtensions.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Extensions\\CinemaExtensions.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Extensions\\CinemaExtensions.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Extensions\\CinemaExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:49:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\SeanceDto.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\SeanceDto.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\SeanceDto.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\SeanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:43:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDetailsDto.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDetailsDto.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDetailsDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:48:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterSeanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommand.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommand.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommand.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:45.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterSeanceCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandValidator.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandValidator.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandValidator.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:49.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterSeanceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Seance\\RegisterSeance\\RegisterSeanceCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:46.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommandHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddMovieCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandValidator.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandValidator.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandValidator.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteMovieCommand.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommand.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommand.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommand.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Delete\\DeleteMovieCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:35.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddMovieCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Command\\Movie\\Add\\AddMovieCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\Ticket.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:30:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seance.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\Seance.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Entities\\Seance.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\Seance.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Entities\\Seance.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:43:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Entities\\MovieCategory.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Entities\\MovieCategory.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Entities\\MovieCategory.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:32:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Startup.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Startup.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Startup.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:44:24.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Program.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:32:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SzkolenieTechniczne.Cinema.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\SzkolenieTechniczne.Cinema.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T15:09:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CinemaTicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\CinemaTicketDbContext.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\CinemaTicketDbContext.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\CinemaTicketDbContext.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\CinemaTicketDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:51:56.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:28:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:46:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240607171134_Piotr.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:11:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240607171134_Piotr.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.Designer.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.Designer.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.Designer.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240607171134_Piotr.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:13:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T04:11:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T04:10:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T04:10:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-09T04:10:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Seances\\Add.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\Seances\\Add.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Seances\\Add.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\Seances\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:04:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SeancesController.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\SeancesController.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Controllers\\SeancesController.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\SeancesController.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Controllers\\SeancesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:22:33.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetMovieQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQueryHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQueryHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQueryHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQueryHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:58:35.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Movie\\Add.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\Movie\\Add.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Movie\\Add.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\Movie\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:54:42.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Seances\\Index.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\Seances\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Seances\\Index.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\Seances\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:10:35.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:15:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240529153318_CreateInitial.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240529153318_CreateInitial.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240529153318_CreateInitial.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240529153318_CreateInitial.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Storage\\Migrations\\20240529153318_CreateInitial.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:33:18.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:32:10.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:32:09.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:22:29.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SzkolenieTechniczne.Cinema.csproj",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T15:12:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetSeanceQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQueryHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQueryHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQueryHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Seance\\GetSeanceQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:37:04.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MovieSeanceDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieSeanceDetailsDto.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieSeanceDetailsDto.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieSeanceDetailsDto.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieSeanceDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:28:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TicketDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\TicketDetailsDto.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\TicketDetailsDto.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\TicketDetailsDto.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\TicketDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:10:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Dtos\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:28:00.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetAllMoviesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQuery.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQuery.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQuery.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:30:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetAllMoviesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQueryHandler.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQueryHandler.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetAllMoviesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:30:01.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetMovieQuery.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQuery.cs",
+              "RelativeDocumentMoniker": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQuery.cs",
+              "ToolTip": "C:\\Users\\peter\\source\\repos\\SzkoleTech6\\SzkoleTech6\\SzkolenieTechniczne.Cinema\\SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQuery.cs",
+              "RelativeToolTip": "SzkolenieTechniczne.Cinema.Service\\Query\\Movie\\GetMovieQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:30:52.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

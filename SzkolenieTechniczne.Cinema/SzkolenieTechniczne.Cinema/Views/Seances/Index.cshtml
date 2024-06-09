@@ -1,0 +1,40 @@
+﻿@model SzkolenieTechniczne.Cinema.Service.Query.Dtos.MovieDetailsDto
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Seanse dla filmu @Model.Name</h2>
+<div>
+    <table class="table">
+        <thead class="tab-pane">
+            <tr>
+                <th>Data</th>
+                <th></th>
+
+                <th></th>
+                <th>
+                    <a class="btn btn-outline-success float-right" asp-action="Add" asp-route-movieId="@Model.Id">Dodaj nowy</a>
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tab-content">
+            @foreach (var item in Model.Seances)
+            {
+                <tr>
+                    <td>
+                        @item.Date
+                    </td>
+                    <td>
+                        <div class="d-inline-flex float-right">
+                            <a class="text-warning btn btn-link" asp-action="Index" asp-controller="Tickets" asp-all-route-movieId="@Model.Id" asp-route-seanceId="@item.Id">
+                                <i class="fas fa-pen-square">Kup bilet</i>
+                            </a>
+                        </div>
+                    </td>
+                    <th></th>
+                    <th></th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
