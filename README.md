@@ -6,4 +6,4 @@ This is where all CRUD operations, creation of DTOs and queries happen. All comm
 ## Storage
 This is where I've created all entity classes for movies, movie categories, seances and tickets, which are based on BaseEntity.cs class.
 ## Connection to database
-I've used Entity Framework together with sql server express to connect data to application, with migration to SQL express server. CinemaTicketDbContext.cs inherits from DbContext and handles all data coming through entities.
+I've used Entity Framework together with sql server to connect data to application, with migration to SQL express server. CinemaTicketDbContext.cs inherits from DbContext and handles all data coming through entities.
